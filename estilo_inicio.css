@@ -1,0 +1,19 @@
+
+
+#piePagina
+{
+	background-color: #C42C27;
+    /*height: 200px;*/
+}
+
+#botonLogin
+{
+	background-color: #E98B31;
+    color: black;
+    border-radius: 30px;
+}
+
+.input-field email 
+{
+     color: #000;
+}
